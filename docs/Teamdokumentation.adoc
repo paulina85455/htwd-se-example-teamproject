@@ -1,5 +1,5 @@
 = Teamdokumentation
-Vorname Nachname <email>
+Paulina Kostka<paulina.kostka@stud.htw-dresden.de>
 
 Adriana Abraheem adriana.abraheem@stud.htw-dresden.de
 
@@ -14,4 +14,5 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 include::Teammitglieder.adoc[]
 
 include::Software.adoc[]
+
 
