@@ -1,5 +1,5 @@
 = Teamdokumentation
-Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de>
+Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de>; Adriana Abraheem <adriana.abraheem@stud.htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -7,3 +7,8 @@ Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de>
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit mit Git.
+
+include::Teammitglieder.adoc[]
+
+include::Software.adoc[]
+
