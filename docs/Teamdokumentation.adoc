@@ -1,5 +1,8 @@
 = Teamdokumentation
 Vorname Nachname <email>
+
+Adriana Abraheem adriana.abraheem@stud.htw-dresden.de
+
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
