@@ -1,4 +1,15 @@
 == Teammitglieder
-Paulina Kostka 
-Jeremy Ziegert
-Adriana Abraheem 
+
+
+[cols="1,1"]
+
+|===  
+
+| *Mitglied* | *Rolle* 
+| Paulina Kostka | Partner A    
+| Adriana Abraheem  | Partner B  
+| Jeremy Ziegert | Partner C 
+
+
+
+|===
