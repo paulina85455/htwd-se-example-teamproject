@@ -3,3 +3,5 @@
 - Datensicherheit
 - Flexibilität
 - fördert die Kreativität
+
+Gitub ist durch sein gutes overlay sehr gut bedienbar. Durch verschiedenste einstellungen ist die größtmögliche Datensicherheit innerhalb eines Teams gegeben. Github ermöglicht das flexible genau so wie präzise an Code.
