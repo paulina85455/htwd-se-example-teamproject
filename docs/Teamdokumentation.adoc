@@ -1,5 +1,5 @@
 = Teamdokumentation
-Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de>; Adriana Abraheem <adriana.abraheem@stud.htw-dresden.de>
+Paulina Kostka <paulina.kostka@stud.htw-dresden.de>; Adriana Abraheem <adriana.abraheem@stud.htw-dresden.de>; Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -11,4 +11,5 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 include::Teammitglieder.adoc[]
 
 include::Software.adoc[]
+
 
