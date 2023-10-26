@@ -1,0 +1,5 @@
+== Vorteile von GitHub
+
+- Datensicherheit
+- Flexibilität
+- fördert die Kreativität
