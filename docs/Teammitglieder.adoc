@@ -5,8 +5,8 @@
 
 |===  
 
-| *Mitglied* | *Rolle* 
-| Paulina Kostka | Partner A    
+| *Mitglied* | *Rolle*
+| Paulina Kostka | Partner A 
 | Adriana Abraheem  | Partner B  
 | Jeremy Ziegert | Partner C 
 

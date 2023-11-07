@@ -1,5 +1,5 @@
 = Teamdokumentation
-Paulina Kostka <paulina.kostka@stud.htw-dresden.de>; Adriana Abraheem <adriana.abraheem@stud.htw-dresden.de>; Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de>
+Paulina Kostka <paulina.kostka@stud.htw-dresden.de> Verwaltungsinformatik; Adriana Abraheem <adriana.abraheem@stud.htw-dresden.de> Verwaltungsinformatik; Jeremy Ziegert <jeremy.ziegert@stud.htw-dresden.de> Wirtschaftsinformatik
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
